@@ -7,4 +7,4 @@ Web language (Basics)
      HTML
      CSS
      Javascript
-Moving Towards Technology.... 📱 💻
+
